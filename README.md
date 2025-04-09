@@ -23,3 +23,6 @@ To use the webcam, the website will ask for permission. Be sure to **allow acces
 ## Project info
 
 This website is part of the **Agrobot project**, created for the **BIEA STEM Youth Innovation Competition**.
+
+## Use the prototipe
+--> https://teachablemachine.withgoogle.com/models/_EDZejJ3G/ 
